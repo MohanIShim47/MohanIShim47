@@ -1,16 +1,13 @@
-## Hi there 👋
+# About Me
+ I am coder who loves coding. I know languages such as: C++, Python, Javascript, HTMl, and CSS
 
-<!--
-**MohanIShim47/MohanIShim47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## What I am currently working on
+I am currently working on this bookmarklet that lets you bookmarklets, but remember don't add any bookmarklets to it that could get you in trouble because I will not take any responsiblity for your actions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My past Projects
+
+- GamingHeaven
+- Scriptix
+- PhiPiBeta
+- AutoClicker v3
