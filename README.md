@@ -1,11 +1,11 @@
 # About Me
- I am coder who loves coding. I know languages such as: C++, Python, Javascript, HTMl, and CSS
+ I am coder who loves coding. I know languages such as: C++, Python, Javascript, HTMl, and CSS. Also I am a big, huge, gigantic, and super big fan of making fan-made games of famous games such as FNAF, Poppy Playtime (Any of the Chapters), Bendy the ink trilogy Games, and etc. (Mostly indie horror games, but I sometimes do fan-made games of other styles of games) 
 
 
-## What I am currently working on
+## What I am currently working on:
 I am currently working on this bookmarklet that lets you bookmarklets, but remember don't add any bookmarklets to it that could get you in trouble because I will not take any responsiblity for your actions.
 
-## My past Projects
+## My past Projects:
 
 - GamingHeaven
 - Scriptix
@@ -13,21 +13,3 @@ I am currently working on this bookmarklet that lets you bookmarklets, but remem
 - AutoClicker v3
 - Lemonade City Extension
 - Userscript Manager
-
-## GamingHeaven Description
-Gaming Heaven is a website that lets you play games.
-
-## Scriptix Description
-Lets you manage bookmarklets to make dailt life more easlier
-
-## PhiPiBeta Description
-Website that brings people together by giving good advice
-
-## AutoClicker v3 Description
-It's what the name suggests a autoclicker. (UI for it coming soon)
-
-## Lemonade City Extension Description
-It's a chrome extension that edits your google search and newtab pages to be Lemonade City Themed.
-
-## Userscript Manager
-Lets you manage your userscripts like tampermonkey or violentmonkey except in a bookmarklet (Does not work).
