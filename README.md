@@ -3,4 +3,4 @@
 
 
 ## What I am currently working on:
-I am currently working on this bookmarklet that lets you bookmarklets, but remember don't add any bookmarklets to it that could get you in trouble because I will not take any responsiblity for your actions.
+Not anything right now
